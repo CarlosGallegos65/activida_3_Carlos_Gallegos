@@ -1,13 +1,15 @@
 import { StyleSheet, View } from 'react-native';
-import Foco from './src/components/Foco';
+import Foco from './src/components/foco';
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
-
-    <Foco></Foco>
-
+    <View styles={styles.container}> 
+     
+     <Foco/>
+    
     </View>
+   
   );
 }
 
