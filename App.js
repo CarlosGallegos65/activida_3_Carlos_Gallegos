@@ -1,5 +1,5 @@
 import { StyleSheet, View } from 'react-native';
-import Foco from './src/components/foco';
+import Foco from './src/components/Foco';
 
 
 export default function App() {
