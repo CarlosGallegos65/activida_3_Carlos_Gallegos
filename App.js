@@ -4,9 +4,9 @@ import Foco from './src/components/Foco';
 
 export default function App() {
   return (
-    <View styles={styles.container}> 
+    <View style={styles.container}> 
      
-     <Foco/>
+     <Foco></Foco>
     
     </View>
    
